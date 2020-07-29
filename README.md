@@ -1,2 +1,17 @@
-# test
-该项目用于写一些案例验证，临时代码功能
+# umi project
+
+本项目用于编写一些验证代码，调试代码等
+
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ yarn
+```
+
+Start the dev server,
+
+```bash
+$ yarn start
+```
